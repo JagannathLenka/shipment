@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shipment: MyString
+  shipment_type: MyString
+  shipment_carrier: MyString
+
+two:
+  shipment: MyString
+  shipment_type: MyString
+  shipment_carrier: MyString
